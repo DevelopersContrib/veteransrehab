@@ -18,7 +18,11 @@
                             <div class="slider-text-middle-main">
                                 <div class="slider-text-middle">
                                     <h1 class="white-text">Our Veterans Need Our Help</h1>
-                                    <p class="text-large light-gray-text letter-spacing-3 margin-three">Todays Veterans are taking they're lives every 30 minutes, they who risked life and limb for our protection and freedom.  We believe we can do better. We believe we should do more </p>
+                                    <p class="text-large light-gray-text letter-spacing-3 margin-three">
+									Today's Veterans are taking they're lives every 30 minutes, they who risked life and limb for our protection and freedom.  We believe we can do better. We believe we should do more. 
+									
+									
+									</p>
                                  	<a class="btn-small-white-background btn btn-small no-margin" href="#contact-us">Join Today and support a veteran</a>
                                 </div>
                             </div>
@@ -34,7 +38,7 @@
                             <div class="slider-text-middle-main">
                                 <div class="slider-text-middle">
                                     <h1 class="white-text">Help a Veteran Today</h1>
-                                    <p class="text-large light-gray-text letter-spacing-3 margin-three">Getting results through personalization and utilization of Technology, Dietary and Education program for todays Veterans.</p>
+                                    <p class="text-large light-gray-text letter-spacing-3 margin-three">Getting results through personalization and utilization of Technology, Dietary and Education program for today's Veterans.</p>
                                     <a class="btn-small-white-background btn btn-small no-margin" href="#contact-us">Join Today and support a veteran</a>
 									
 									
@@ -138,9 +142,11 @@
 				<div class="row">
 					<div class="col-md-8 center-col text-center">
                     	<p>
-						Veterans Rehab is a progressive and agile program and system for effective rehabilitation for todays Veterans. Both physical and mental rehabilitation is needed for a vast number of veterans.  We are pushing the boundaries of using and creating new technologies that can create and measure results, a collaborative and safe environment and a network of professionals focused on the well being of todays Veterans. </p>
-						<p>The custom programs we create allow for greater individual growth of our Veterans while utilizing Virtual Reality, BioSensoring, Dietary Development and Management along with Education that includes are amazing Military Degree program for members of our Veterans Rehab facility. We are one of a kind and hope you consider learning more about Veterans Rehab, spreading the word or joining our network to support today's Veterans. 
+						Veterans Rehab is a progressive and agile program and system for the effective rehabilitation for today's veterans. Both physical and mental rehabilitation is needed for a vast number of veterans. We are pushing the boundaries of using and creating new technologies that can create and measure results, a collaborative and safe environment created through a network of professionals focused on the well being of today's veterans.
 						</p>
+						<p>The custom programs we create allow for greater individual growth of our veterans while utilizing Virtual Reality, BioSensoring, Dietary Development and Management along with Education that includes an amazing Military Degree program for members of our Veterans Rehab facility. We are one of a kind and hope you consider learning more about Veterans Rehab, spreading the word or joining our network to support today's Veterans. 
+						</p>
+						
                     </div>
                     <!-- end section title -->
                 </div>
@@ -170,7 +176,7 @@
                         <div class="col-md-9 col-sm-12 about-onepage-text">
                             <div class="about-onepage-text-sub sm-no-margin-left xs-text-center">
                                 <span class="black-text">Customized Health Treatments</span>
-                                <p class="text-med width-80 no-margin-bottom sm-width-100">Personalized Health treatments include dietary analysis and customize food intake.</p>
+                                <p class="text-med width-80 no-margin-bottom sm-width-100">Personalized Health treatments include dietary analysis and customized food intake.</p>
                             </div>
                         </div>
                     </div>
@@ -198,7 +204,7 @@
                         <div class="col-md-9 col-sm-12 about-onepage-text">
                             <div class="about-onepage-text-sub sm-no-margin-left xs-text-center">
                                 <span class="black-text">Education via Gamification</span>
-                                <p class="text-med width-80 no-margin-bottom sm-width-100"> Education both in terms of symptom knowledge but other growth/career related programs,Gamification structure to help keep relaps. </p>
+                                <p class="text-med width-80 no-margin-bottom sm-width-100"> Education both in terms of symptom knowledge and other growth/career related programs and gamification structure to help prevent relapses. </p>
                             </div>
                         </div>
                     </div>
@@ -226,18 +232,23 @@
                         <span class="services-number font-weight-100 gray-text"></span>
                         <h3 class="section-title main-font no-padding margin-one no-margin-top black-text letter-spacing-3">What</h3>
                         <p class="margin-two text-med width-90 center-col">Veterans Rehab is a new and advanced rehabilitation programs using personalized health development in a networked and connected environmenent.
-						16 veterans with 4 full time support staff on site occupy the 26,000 sq. ft private estate allowing Veterans and Growth and Wellness professionals plenty of room and opportunity to grow along side the veterans.</p>
+						16 veterans with 4 full time support staff on site occupy the 26,000 sq. ft private estate allowing the veterans as well as the Growth & Wellness professionals plenty of room and the opportunity to grow alongside the veterans.
+						</p>
                     </div>
                     <div class="col-md-4 col-sm-4 text-center xs-margin-bottom-ten">
                         <span class="services-number font-weight-100 gray-text"></span>
                         <h3 class="section-title main-font no-padding margin-one no-margin-top black-text letter-spacing-3">why</h3>
-                        <p class="margin-two text-med width-90 center-col">Todays Veterans are taking there lives every 30 minutes, veterans who risked life and limb for our protection and freedom.  We believe we can do better utilizing our ability to put people and programs together that can create, measure and deliver results.   
-						We have to try and make a different by utilizating our resources and Veterans Rehab is our current venture focus.  </p>
+                        <p class="margin-two text-med width-90 center-col">
+						Today's veterans are taking their lives every 30 minutes, veterans who risked life and limb for our protection and freedom. We believe we can do better utilizing our ability to put people and programs together that can create, measure and deliver results. We have to try and make a difference by utilizing our resources.Veterans Rehab is our current venture focus.
+						
+						</p>
                     </div>
                     <div class="col-md-4 col-sm-4 text-center xs-margin-bottom-ten">
                         <span class="services-number font-weight-100 gray-text"></span>
                         <h3 class="section-title main-font no-padding margin-one no-margin-top black-text letter-spacing-3">how</h3>
-                        <p class="margin-two text-med width-90 center-col">Using a well know estate location, Kessler Mansion, we bring together the right people and technology and programs that create personalized wellness development using technology, gamification, network effects and other strategies that help veterans in rehabilitiation.</p>
+                        <p class="margin-two text-med width-90 center-col">
+						Using a well-known estate location, Kessler Mansion, we bring together the right people,technology and programs that create personalized wellness development using technology, gamification, network effects and other strategies that help veterans in rehabilitation.
+						</p>
                     </div>
                 </div>
             </div>
