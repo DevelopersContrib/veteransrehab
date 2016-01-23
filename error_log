@@ -1,3 +1,0 @@
-[22-Oct-2015 06:31:38 UTC] PHP Warning:  include(header-new.php): failed to open stream: No such file or directory in /home/veterans/public_html/indexnew.php on line 1
-[22-Oct-2015 06:31:38 UTC] PHP Warning:  include(): Failed opening 'header-new.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/veterans/public_html/indexnew.php on line 1
-[05-Nov-2015 03:54:38 UTC] PHP Fatal error:  Cannot redeclare createApiCall() (previously declared in /home/veterans/public_html/includes/config.php:3) in /home/veterans/public_html/includes/config.php on line 38

@@ -1,6 +1,0 @@
----BEGIN ROBOTS.TXT ---
-User-Agent: *
-Disallow:
-
-Sitemap: http://veteransrehab.com/sitemap.html
---- END ROBOTS.TXT ----
